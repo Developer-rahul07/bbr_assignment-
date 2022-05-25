@@ -1,0 +1,90 @@
+ .topnav {
+  background-color: rgb(0, 0, 0);
+  overflow: hidden;
+  color: black;
+
+}
+
+ .topnav a {
+  float: left;
+  color: #e3e3e3;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+ .topnav a:hover {
+  /* background-color: rgb(243, 37, 37); */
+
+  color: rgb(220, 18, 18);
+}
+
+ .topnav a.active {
+  /* background-color: #0b49ad; */
+  color: rgb(222, 30, 30);
+}
+
+/* volunteers section start */
+.volunteers_word{
+  color: red;
+  
+}
+
+.volunteers_word:hover{
+  color: rgb(0, 0, 0);
+ 
+}
+
+.super_word:hover{
+  color: red;
+
+}
+/* volunteers section end */
+
+
+/* Testinomial section start */
+
+.tesinoms{
+  text-align: center;
+  background-color: aliceblue;
+  padding: 1%;
+}
+
+
+/* Testinomial section end */
+
+/* Footer section start */
+
+
+ .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+ .fa:hover {
+  opacity: 0.7;
+}
+
+ 
+ .fa-facebook {
+  
+  color: white;
+}
+
+ .fa-twitter {
+  
+  color: white;
+}
+ .fa-instagram {
+  
+  color: white;
+}
+ .fa-google {
+  
+  color: white;
+}
+/* Footer section end */
